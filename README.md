@@ -14,12 +14,13 @@ prep.ableinitiatives.com).
 | Course | Views | Progress key |
 |---|---|---|
 | **Engineering Foundations: How Things Get Designed and Built**: the design process; fields and careers; measurement, units and estimation; forces, structures and materials; electricity and circuits; code, data and testing | `#ef`, `#ef-lesson-1`…`6`, `#ef-certificate` | `able.engineering.ef.v1` |
+| **Aerospace Engineering: How Things Fly**: what aerospace engineers do; the four forces of flight; wings and lift; stability and control; rockets and propulsion; reaching space and orbit | `#ae`, `#ae-lesson-1`…`6`, `#ae-certificate` | `able.engineering.ae.v1` |
 
 Each course has a dashboard, six lessons (goals, worked example, common
 mistake, key idea, key terms, "try it yourself", a five-question quiz where
 four right completes the lesson) and its own certificate. Shared views: **All
 courses** (`#home`), **Calculators** (`#tools`: percent error, lever, Ohm's
-law) and **Glossary** (`#glossary`).
+law, glide ratio, lift, rocket liftoff) and **Glossary** (`#glossary`).
 
 ## Files
 
